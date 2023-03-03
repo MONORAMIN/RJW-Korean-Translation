@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RJW Translation KR</name>
+	<author>MONORAMIN</author>
+	<url>https://gitgud.io/MONORAMIN/rjw-korean-translation</url>
+	<packageId>rjw.translation.kr</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>
+개인적으로 사용하려 만든 RJW Core 및 Addon 통합 번역 모드
+
+Translation for Korean RimJobWorld users.
+All mode rights reserved to the original author and can be deleted or added if the author wishes.
+
+모드 배열 순서:
+	Harmony
+	Core
+	...
+	RimJobWorld
+	RJW mods and patches
+	RJW Translation KR
+
+	</description>
+</ModMetaData>
